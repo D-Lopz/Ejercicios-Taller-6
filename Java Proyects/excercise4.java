@@ -10,7 +10,7 @@ public class excercise4 {
 
         int acumulator = 0;
 
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i <= n; i++) {
             acumulator += i;
         }
 
