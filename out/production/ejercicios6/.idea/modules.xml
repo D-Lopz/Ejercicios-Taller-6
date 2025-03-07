@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-
-      <module fileurl="file://$PROJECT_DIR$/DL.iml" filepath="$PROJECT_DIR$/DL.iml" />
-
       <module fileurl="file://$PROJECT_DIR$/.idea/ejercicios6.iml" filepath="$PROJECT_DIR$/.idea/ejercicios6.iml" />
- 98c66ca (Ejercicios 6 Final)
     </modules>
   </component>
 </project>
